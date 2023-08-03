@@ -1,0 +1,25 @@
+.todo {
+  margin: 0.5rem;
+  background: white;
+  color: black;
+  transition: all 1s ease;
+  font-size: 1.5rem;
+}
+.todoli {
+  padding: 0.5rem;
+}
+ul {
+  margin: 20px;
+  padding-right: 40px;
+}
+
+.button {
+  background-color: #94ffab;
+  color: #000;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+.fall {
+  transform: translateY(10rem) rotateZ(20deg);
+  opacity: 0;
+}
